@@ -19,7 +19,7 @@ a BepInEx plugin for Big Walk that replaces the bird's walking with a port of Ba
 2. drop `BigSteps.dll` in `Big Walk/BepInEx/plugins/`.
 3. linux / steam deck: set the launch option `WINEDLLOVERRIDES="winhttp=n,b" %command%`.
 
-press **F9** in game to switch the legs on (or set the default walking state in Settings > Big Steps). the options are in the pause menu under Settings > Big Steps.
+press **F9** in game to switch the legs on (or set the default walking state in Settings > Big Steps). press **F6** for third-person camera. the options are in the pause menu under Settings > Big Steps.
 
 ## controls (legs on)
 
